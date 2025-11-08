@@ -7,7 +7,7 @@ import speech_recognition as sr
 # ==============================
 # 🌈 Custom Animated UI Styling
 # ==============================
-st.set_page_config(page_title="AI Voice Translator", page_icon="🎙️", layout="centered")
+st.set_page_config(page_title="Multi-Language Translator", page_icon="🎙️", layout="centered")
 
 st.markdown("""
 <style>
@@ -110,7 +110,7 @@ div.stButton > button:hover {
 # ==============================
 # 🎙️ Streamlit App Content
 # ==============================
-st.title("🎙️ AI Voice Translator")
+st.title("🎙️ Multi-Language Translator")
 st.markdown("Convert your **speech or text** into natural-sounding audio — in any language with real-time translation!")
 
 # ==============================
