@@ -75,4 +75,4 @@ streamlit run app.py
 
 ### 5. Screenshots / Demo
 
-![App Screenshot](images/language_translator.png)
+![App Screenshot](images/language_translator.jpg)
